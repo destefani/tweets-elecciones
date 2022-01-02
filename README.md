@@ -8,7 +8,7 @@ Este estudio se inspira en casos como el de las [elecciones presidenciales de Es
 
 El principal objetivo fue cuantificar la presencia de bots que participan en torno al tema de las elecciones presidenciales en Chile 2021. Es decir, obtener información numérica y porcentual acerca de cuantos de los usuarios que generaron algún tweet relacionado al tema son considerados bots y cuantos son considerados personas reales. 
 
-[Bot:](https://dictionary.cambridge.org/es/diccionario/ingles/bot) `Un programa de computadora que funciona automáticamente, especialmente uno que busca y encuentra información en internet.`
+[Bot:](https://dictionary.cambridge.org/es/diccionario/ingles/bot) Un programa de computadora que funciona automáticamente, especialmente uno que busca y encuentra información en internet.
 
 
 ## Base de datos
